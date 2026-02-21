@@ -1,0 +1,18 @@
+# Default: org owners team reviews everything
+* @Mr-Rainbowsmoke/owners
+
+# Docs
+/docs/ @Mr-Rainbowsmoke/docs
+**/*.md @Mr-Rainbowsmoke/docs
+
+# CI / GitHub
+.github/ @Mr-Rainbowsmoke/ops
+
+# Infrastructure
+/infra/ @Mr-Rainbowsmoke/ops
+
+# Workers
+/apps/**/src/** @Mr-Rainbowsmoke/edge
+
+# Libraries
+/libs/ @Mr-Rainbowsmoke/maintainers

@@ -1,0 +1,24 @@
+name: 🔒 Security report
+description: Report a security issue (do not disclose publicly)
+title: "[Security]: "
+labels: ["type: security"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ⚠️ **Do not include sensitive details in this public issue.**
+        If the repository has a SECURITY.md, follow that process instead.
+
+  - type: textarea
+    attributes:
+      label: High-level summary
+      description: Describe the issue at a high level without exploit steps or secrets.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Suggested private contact method
+      description: Provide a way to contact you privately (no secrets).
+    validations:
+      required: true
