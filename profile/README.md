@@ -1,4 +1,8 @@
-# 🌈 Mr-Rainbowsmoke
+<p align="center">
+  <img src="assets/logo.png" alt="Mr-Rainbowsmoke" width="300"/>
+</p>
+
+<h1 align="center">🌈 Mr-Rainbowsmoke</h1>
 
 Welcome to the official GitHub organization for **Mr-Rainbowsmoke** — a technology-driven ecosystem focused on modern cloud architecture, automation, creative engineering, and experimental AI workflows.
 
