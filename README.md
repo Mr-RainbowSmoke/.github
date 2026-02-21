@@ -29,3 +29,23 @@ This project focuses on …
 ```bash
 pnpm install
 pnpm dev
+```
+---
+## 🏷️ Badges
+<!-- Core -->
+![Org](https://img.shields.io/badge/org-Mr--Rainbowsmoke-000000?style=for-the-badge)
+![Stack](https://img.shields.io/badge/stack-Edge%20%7C%20Cloudflare%20Workers%20%7C%20Nx-000000?style=for-the-badge)
+![Language](https://img.shields.io/badge/code-TypeScript-000000?style=for-the-badge)
+
+<!-- Repo metadata -->
+![License](https://img.shields.io/github/license/Mr-Rainbowsmoke/.github?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Mr-Rainbowsmoke/.github?style=for-the-badge)
+![PRs](https://img.shields.io/github/issues-pr/Mr-Rainbowsmoke/.github?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Mr-Rainbowsmoke/.github?style=for-the-badge)
+
+<!-- CI (replace workflow file name) -->
+![CI](https://img.shields.io/github/actions/workflow/status/Mr-Rainbowsmoke/.github/ci.yml?style=for-the-badge)
+
+<!-- Optional: Health -->
+![Activity](https://img.shields.io/github/commit-activity/m/Mr-Rainbowsmoke/.github?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Mr-Rainbowsmoke/.github?style=for-the-badge)
