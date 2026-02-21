@@ -2,17 +2,16 @@
 * @Mr-Rainbowsmoke/owners
 
 # Docs
-/docs/ @Mr-Rainbowsmoke/docs
-**/*.md @Mr-Rainbowsmoke/docs
+@Mr-Rainbowsmoke/docs
 
 # CI / GitHub
-.github/ @Mr-Rainbowsmoke/ops
+@Mr-Rainbowsmoke/ops
 
 # Infrastructure
-/infra/ @Mr-Rainbowsmoke/ops
+@Mr-Rainbowsmoke/ops
 
 # Workers
-/apps/**/src/** @Mr-Rainbowsmoke/edge
+@Mr-Rainbowsmoke/edge
 
 # Libraries
-/libs/ @Mr-Rainbowsmoke/maintainers
+@Mr-Rainbowsmoke/maintainers
