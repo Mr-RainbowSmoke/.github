@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Mr-Rainbowsmoke" width="300"/>
+  <img src="../assets/logo.png" alt="Mr-Rainbowsmoke" width="300"/>
 </p>
 
 <h1 align="center">🌈 Mr-Rainbowsmoke</h1>
